@@ -1,0 +1,9 @@
+rest_framework
+ rest_framework_simplejwt 
+corsheaders
+dj-database-url
+pillow 
+django-cors-headers
+gunicorn
+psycopg2-binary
+python-dotenv
